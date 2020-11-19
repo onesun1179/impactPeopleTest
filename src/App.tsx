@@ -1,6 +1,4 @@
 import React, {FormEvent, useCallback, useState, FC} from 'react';
-import logo from './logo.svg';
-import './App.css';
 import mockHttpClient from "./mockHttClient";
 import moment from "moment"
 import {
